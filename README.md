@@ -35,12 +35,12 @@ productivity analysis you understood that the packing process was the bottleneck
 ### Objective
 You got the approval from your management for investing in a second packing station and you’re wondering how should you design the layout.
 
-### Solution 1: keep a single line with two parallel stations
+#### Solution 1: keep a single line with two parallel stations
 <p align="center">
   <img align="center" src="https://miro.medium.com/max/700/1*Yg0h2TH2v3mh-1eckO0dqg.png" style="width: 50%; height: 50%"/>
 </p>
 
-### Solution 2: add a second line with a dedicated station
+#### Solution 2: add a second line with a dedicated station
 <p align="center">
   <img align="center" src="https://miro.medium.com/max/700/1*Y5DjsFFTae4L2NOzqhxGtg.png" style="width: 50%; height: 50%"/>
 </p>
