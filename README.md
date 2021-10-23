@@ -23,12 +23,12 @@ productivity analysis you understood that the packing process was the bottleneck
 
 #### 1. Warehouse Pickers bring the parcels on a trolley and put them on the conveyor
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*WYwCXoRYTm48idYEIDsSwQ.png">
+  <img align="center" src="https://miro.medium.com/max/700/1*WYwCXoRYTm48idYEIDsSwQ.png" style="width: 50%; height: 50%"/>
 </p>
 
 #### 2. Packing Operator Take the parcels from the conveyor and performs quantity check and packing (put filling material, close the box)
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*WYwCXoRYTm48idYEIDsSwQ.png">
+  <img align="center" src="https://miro.medium.com/max/700/1*WYwCXoRYTm48idYEIDsSwQ.png" style="width: 50%; height: 50%"/>
 </p>
 
 
@@ -37,12 +37,12 @@ You got the approval from your management for investing in a second packing stat
 
 ### Solution 1: keep a single line with two parallel stations
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*Yg0h2TH2v3mh-1eckO0dqg.png">
+  <img align="center" src="https://miro.medium.com/max/700/1*Yg0h2TH2v3mh-1eckO0dqg.png" style="width: 50%; height: 50%"/>
 </p>
 
 ### Solution 2: add a second line with a dedicated station
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/700/1*Y5DjsFFTae4L2NOzqhxGtg.png">
+  <img align="center" src="https://miro.medium.com/max/700/1*Y5DjsFFTae4L2NOzqhxGtg.png" style="width: 50%; height: 50%"/>
 </p>
 
 > What is the most efficient (Packing Productivity) solution?
