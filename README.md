@@ -12,6 +12,12 @@ This network usually supports the business strategy of your company; its objecti
 
 As a Supply Chain Engineer, your objective is to design the most efficient processes to ensure a good service level for your customers and profitability.
 
+### Youtube Video
+Find in the link below a short animated explained video to understand the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=COcoxQ8NhzM"><img src="https://i.ytimg.com/an_webp/COcoxQ8NhzM/mqdefault_6s.webp?du=3000&sqp=CL3thJEG&rs=AOn4CLCiInWwZSFuXDQa9Pyx6HCo5E0fpw" alt="Explainer Video Link"></a>
+</div>
+
 ### Medium Article
 In this [Medium Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3), we will will apply principles from the Queueing Theory with Python to design a process for 
 parcel packing in an E-Commerce Fulfilment Centre.
