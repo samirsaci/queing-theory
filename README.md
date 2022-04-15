@@ -18,8 +18,8 @@ Find in the link below a short animated explained video to understand the concep
   <a href="https://www.youtube.com/watch?v=COcoxQ8NhzM"><img src="https://i.ytimg.com/an_webp/COcoxQ8NhzM/mqdefault_6s.webp?du=3000&sqp=CL3thJEG&rs=AOn4CLCiInWwZSFuXDQa9Pyx6HCo5E0fpw" alt="Explainer Video Link"></a>
 </div>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3), we will will apply principles from the Queueing Theory with Python to design a process for 
+### Article
+In this [Article](https://www.samirsaci.com/supply-chain-process-design-using-the-queueing-theory/), we will will apply principles from the Queueing Theory with Python to design a process for 
 parcel packing in an E-Commerce Fulfilment Centre.
 
 ### Scenario
