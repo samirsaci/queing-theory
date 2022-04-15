@@ -15,7 +15,7 @@ As a Supply Chain Engineer, your objective is to design the most efficient proce
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=COcoxQ8NhzM"><img src="https://i.ytimg.com/an_webp/COcoxQ8NhzM/mqdefault_6s.webp?du=3000&sqp=CL3thJEG&rs=AOn4CLCiInWwZSFuXDQa9Pyx6HCo5E0fpw" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=COcoxQ8NhzM"><img src="https://github.com/samirsaci/queing-theory/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
 ### Article
