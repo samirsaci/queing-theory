@@ -58,6 +58,6 @@ This repository code you will find all the code used to explain the concepts pre
 
 ## About me 🤓
 Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).
-🚀Find 80+ case studies of data analytics for supply chain optimization and sustainability: https://bit.ly/supply-chain-cheat
-Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/). \
+🚀Find 80+ case studies of data analytics for supply chain optimization and sustainability: https://bit.ly/supply-chain-cheat \
+Please have a look at my personal blog: [Personal Website](https://samirsaci.com) \
